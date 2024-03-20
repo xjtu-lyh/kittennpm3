@@ -16,9 +16,9 @@
   "author": "kitten",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xjtu-lyh/kittennpm2/issues"
+    "url": "https://github.com/xjtu-lyh/kittennpm3/issues"
   },
-  "homepage": "https://github.com/xjtu-lyh/kittennpm2#readme",
+  "homepage": "https://github.com/xjtu-lyh/kittennpm3#readme",
   "dependencies": {
     "react": "^18.2.0",
     "kittennpm": "^1.0.5",
