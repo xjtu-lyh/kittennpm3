@@ -1,23 +1,27 @@
 {
   "name": "kittennpm3",
-  "version": "1.0.0",
-  "description": "hah",
+  "version": "1.0.1",
+  "description": "hello",
   "main": "index.js",
   "scripts": {
-    "test": "xx"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/xjtu-lyh/kittennpm3.git"
   },
+  "keywords": [
+    "kitten"
+  ],
   "author": "kitten",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xjtu-lyh/kittennpm3/issues"
+    "url": "https://github.com/xjtu-lyh/kittennpm2/issues"
   },
-  "homepage": "https://github.com/xjtu-lyh/kittennpm3#readme",
+  "homepage": "https://github.com/xjtu-lyh/kittennpm2#readme",
   "dependencies": {
-    "kittennpm": "^1.0.5"
-    "mencret": "^1.1.0",
+    "react": "^18.2.0",
+    "kittennpm": "^1.0.5",
+    "mencret": "^1.1.0"
   }
 }
