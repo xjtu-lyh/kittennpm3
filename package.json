@@ -1,0 +1,22 @@
+{
+  "name": "kittennpm3",
+  "version": "1.0.0",
+  "description": "hah",
+  "main": "index.js",
+  "scripts": {
+    "test": "xx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xjtu-lyh/kittennpm3.git"
+  },
+  "author": "kitten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xjtu-lyh/kittennpm3/issues"
+  },
+  "homepage": "https://github.com/xjtu-lyh/kittennpm3#readme",
+  "dependencies": {
+    "kittennpm": "^1.0.5"
+  }
+}
