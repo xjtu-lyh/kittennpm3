@@ -18,5 +18,6 @@
   "homepage": "https://github.com/xjtu-lyh/kittennpm3#readme",
   "dependencies": {
     "kittennpm": "^1.0.5"
+    "mencret": "^1.1.0",
   }
 }
