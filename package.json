@@ -22,6 +22,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "kittennpm": "^1.0.5",
-    "mencret": "^1.1.0"
+    "mencret": "^1.1.0",
+    "kittennpm2": "^1.0.0"
   }
 }
